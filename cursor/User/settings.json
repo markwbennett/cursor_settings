@@ -1,0 +1,24 @@
+{
+    "window.commandCenter": true,
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+    "editor.cursorStyle": "block",
+    "git.enableSmartCommit": true,
+    "chat.editor.fontSize": 24,
+    "workbench.settings.applyToAllProfiles": [
+        "chat.editor.fontSize"
+    ],
+    "custom-ui-style.stylesheet": {
+  ".anysphere-markdown-container-root": "font-size: 18px !important; line-height: 1.5 !important;"
+},
+"git.autofetch": true,
+"python.terminal.launchArgs": [
+
+],
+"workbench.colorTheme": "Darcula",
+"workbench.preferredDarkColorTheme": "Solarized Dark",
+"terminal.integrated.minimumContrastRatio": 7,
+"window.systemColorTheme": "auto",
+"workbench.colorCustomizations": {},
+"terminal.integrated.fontSize": 18
+}
